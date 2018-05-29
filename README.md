@@ -1,7 +1,7 @@
 # atec_anti_fraud
 ## data index & keys
 |	字段说明	|	解释	|
-| - | :-: | -: | 
+| --- | ---: | ---：|
 |	id	|	主键	|
 |	label	|	预测标签	|
 |	date	|	发生日期	|
